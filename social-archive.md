@@ -485,7 +485,32 @@ Clientul n-a greșit cu întrebările lui. Dar răspunsul nu era în perimetrul 
 Ai o investiție în plan și vrei să știi ce structură ți se potrivește? Programează 30 de minute cu echipa noastră!
 
 ---
+
 ## Post #23
+**Data:** 02.07.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 3 — Predictibilitate fiscală, fără surprize (debunking capcane fiscale frecvente)
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Format carousel (4 slide-uri: hook + 3 variante), unghi debunking/mit-busting — nu case study cu client, ci analiza mecanismului prin care 3 metode populare de scoatere de bani din firmă fără impozit (împrumut de la companie, avans spre decontare, card corporativ) eșuează în practică. CTA personal, provocator ("întreabă-mă ce să NU faci"), nu instituțional.
+
+**Conținut integral:**
+Trei uși, aceeași cameră.
+
+Există trei variante populare prin care antreprenorii scot bani din firmă fără să treacă prin impozit pe dividende.
+
+01 — Împrumut de la companie. Contract de împrumut — nu e venit, e datorie. Dar problema apare la rambursare: în practică, aproape nimeni nu returnează banii. Fără returnare, fiscul nu mai vede împrumut, ci venit — recalculează impozitul, plus penalități și dobânzi acumulate. Banca, la un transfer mare, poate bloca tranzacția chiar înaintea unui control.
+
+02 — Avans spre decontare. Bani pentru cheltuieli de serviciu, fără impozit la eliberare — dar cu obligația de a justifica integral suma cu bonuri și acte. Fără justificare, banii devin salariu. Dacă suma e disproporționată față de cifra de afaceri, banca reacționează prima.
+
+03 — Cardul corporativ. Aceeași mecanică, mai comodă — băncile sunt mai relaxate. Dar fiscul cere tot documente, pentru fiecare achiziție. Cheltuielile fără legătură cu activitatea firmei devin, la control, venit personal și se impozitează ca și salariu.
+
+Toate trei nu sunt portițe. Sunt amânări ale aceleiași întrebări: poți documenta legătura dintre bani și activitatea firmei?
+
+Dacă una din variantele astea e deja parte din cum scoți bani din firmă, întreabă-mă ce să NU faci — restul îl afli oricum la control.
+
+---
+
+## Post #24
 **Data:** 05.07.2026
 **Canale:** LinkedIn + Meta (Facebook/Instagram)
 **Tema strategică:** Tema 2 — Claritate financiară = liniște, nu jargon (aplicat la contracte de chirie comercială cu indexare valutară EUR/MDL)
@@ -532,4 +557,5 @@ Postările alternează între: (a) educație/proces explicat în pași, (b) pozi
 **Schimbare de ton observată din aprilie-iunie 2026:** postările au evoluat spre conținut mai tehnic și mai personal — eseuri de leadership (Post #17), advisory fiscal cu calcule exacte (Post #21), studii de caz de structurare cu sume reale (Post #22). Vocea pare să se îndrepte spre poziționarea fondatorului ca expert individual (founder-voice), nu doar brand TaxFlow — consistent cu direcția discutată separat de disociere/transfer de autoritate. Dacă acest unghi continuă, e important să rămână ancorat în `tone-guard.md` (fără jargon excesiv, claritate peste tehnicitate) chiar și atunci când subiectul e complex.
 
 **Atenție la repetiție de nișă:** Post #4 (stomatolog — deschidere SRL) și Post #22 (clinică stomatologică — structurare investiție) folosesc aceeași nișă profesională. E ok ca progresie (de la "cum deschizi" la "cum optimizezi"), dar nu mai relua nișa stomatologică curând fără un unghi nou.
+**Atenție la unghi (din Post #23):** primul post din arhivă în format mit-busting/comparativ (3 variante greșite, fără client concret). Nu relua acest format următoarele 2-3 postări — variază înapoi spre studiu de caz sau autoritate personală.
 ---
