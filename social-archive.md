@@ -485,6 +485,40 @@ Clientul n-a greșit cu întrebările lui. Dar răspunsul nu era în perimetrul 
 Ai o investiție în plan și vrei să știi ce structură ți se potrivește? Programează 30 de minute cu echipa noastră!
 
 ---
+## Post #23
+**Data:** 02.07.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 2 — Claritate financiară = liniște, nu jargon (aplicat la contracte de chirie comercială cu indexare valutară EUR/MDL)
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Mecanism contractual real, specific pieței moldovenești — chiria e fixată în EUR cu prag minim/maxim (exemplu real: 21,00–25,00 MDL/EUR), suma plătită în lei se recalculează automat la fiecare plată după cursul zilei, indiferent de cursul BNM. Discrepanța nu e o eroare — e mecanismul aplicat lunar. Antreprenorii bugetează după cifra din contract, plătesc după curs. Unghiul e cost (cheltuială), nu marjă sau vânzare — corecție importantă față de iterațiile anterioare.
+
+**Conținut vizual (feed static 1:1, 1080×1080px):**
+- Eyebrow: EXPERTIZĂ FINANCIARĂ
+- Headline: „Costul din contract nu e costul plătit."
+- Subline: „Diferența vine din cursul valutar, aplicat automat la fiecare plată."
+- Card de date: PRAG VALUTAR APLICAT LA PLATĂ / 21,00 — 25,00 MDL / 1 EUR
+- Caption card: „Interval contractual care recalculează automat suma de plată, indiferent de cursul oficial BNM."
+- Footer: logo TaxFlow + taxflow.md
+
+**Conținut integral (caption postare):**
+Chiria depozitului sau a spațiului comercial e fixată în contract — dar suma plătită efectiv depinde de cursul valutar din ziua plății.
+
+Multe contracte comerciale din Chișinău indexează chiria în euro, cu un prag minim și maxim stabilit între părți. Dacă cursul BNM se mișcă în acel interval, suma de plată în lei se recalculează automat — fără nicio renegociere.
+
+Cifra din contract și suma transferată efectiv nu coincid aproape niciodată exact. Nu e o eroare. E mecanismul contractual, aplicat lunar.
+
+Cei mai mulți antreprenori bugetează după cifra din contract. Plătesc, de fapt, după curs.
+
+Tu urmărești separat cele două cifre, sau doar pe cea din contract?
+
+**Sursă/ancorare:** mecanism confirmat printr-un contract real de chirie comercială (screenshot furnizat de client), cu clauză explicită de prag valutar dublu (floor 21,00 MDL/EUR, ceiling 25,00 MDL/EUR). Datele sunt generalizate — contractul nu e reprodus.
+
+**Note pentru evitarea repetiției:**
+- Unghiul „cost contractat ≠ cost plătit pe chirie EUR indexată" este consumat — nu mai reutiliza în următoarele 6–8 săptămâni.
+- Tema cheltuielilor expuse valutar pe costurile fixe (chirie) e distinctă de Post #15 (prag rentabilitate per punct comercial) și de Post #21 (dividende/sarcină fiscală EUR). Nu confunda.
+- Dacă urmează un post pe aceeași temă valutară, unghiul nou ar fi: furnizori/materii prime importate (cost de achiziție în EUR, facturat în lei la momentul primirii mărfii) — mecanism diferit, aceeași familie de probleme.
+
+---
 
 ## Note de utilizare
 
