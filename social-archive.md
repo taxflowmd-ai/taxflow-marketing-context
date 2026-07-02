@@ -486,7 +486,7 @@ Ai o investiție în plan și vrei să știi ce structură ți se potrivește? P
 
 ---
 ## Post #23
-**Data:** 02.07.2026
+**Data:** 05.07.2026
 **Canale:** LinkedIn + Meta (Facebook/Instagram)
 **Tema strategică:** Tema 2 — Claritate financiară = liniște, nu jargon (aplicat la contracte de chirie comercială cu indexare valutară EUR/MDL)
 **Avatar țintă:** Fondator/Antreprenor IMM
