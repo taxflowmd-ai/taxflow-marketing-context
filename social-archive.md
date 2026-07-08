@@ -544,6 +544,46 @@ Tu urmărești separat cele două cifre, sau doar pe cea din contract?
 - Dacă urmează un post pe aceeași temă valutară, unghiul nou ar fi: furnizori/materii prime importate (cost de achiziție în EUR, facturat în lei la momentul primirii mărfii) — mecanism diferit, aceeași familie de probleme.
 
 ---
+## Post #24
+**Data:** 08.07.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram) — carousel, 4 slide-uri
+**Tema strategică:** Tema 1/3 — Operator financiar extern, nu firmă de contabilitate + Predictibilitate fiscală
+**Avatar țintă:** Fondator/Antreprenor IMM (freelancer la început de drum)
+**Framing principal:** Studiu de caz pornit de la o întrebare reală dintr-un grup de freelanceri (AI vs SRL, servicii de marketing). Simulare pe 12 luni, 3 scenarii (AI, SRL, SRL + angajare), cu cifre reale de flux net. Al doilea strat, nefolosit până acum: Legea nr. 228/2025 (art. 24 alin. (111) Cod fiscal) — plafonul de 10% la deductibilitatea plăților către un AI pentru clienți-microîntreprindere.
+
+**Conținut integral:**
+Într-un grup de freelanceri din Moldova, cineva întreabă dacă merită să se înregistreze ca Antreprenor Individual (AI) pentru servicii de marketing. Răspunsurile din comentarii converg rapid spre același argument: 15% la AI, 10% (sau chiar 4%, în anumite condiții) la SRL. Concluzia pare simplă.
+
+Am rulat aceeași întrebare, cu cifre reale, pe 12 luni, la un venit de 1.200.000 lei — în trei scenarii.
+
+**Antreprenor Individual (AI), fără angajați**
+Impozitul pe venit: 15% → 180.000 lei. Nu ai alte contribuții — povara fiscală totală rămâne 15%.
+Bani rămași în cont, după cheltuieli și taxe: 780.000 lei.
+
+**SRL, fără să fii și angajat**
+Impozitul pe venit: 4% → 48.000 lei. Dar la el se adaugă impozitul pe dividende și contribuțiile sociale/medicale obligatorii ale fondatorului, indiferent dacă e angajat sau nu. Total real de taxe: 136.794 lei — o povară fiscală de 11%, nu de 4%.
+Ai și un cost de contabilitate de 24.000 lei/an, pe care AI nu-l are.
+Bani rămași în cont: 799.206 lei.
+
+**SRL, cu tine ca angajat, salariu de 6.000 lei/lună**
+Aceeași cotă de 4% pe venit. Dar contribuțiile sociale și medicale, calculate acum la un salariu real — nu ca sumă fixă de fondator neangajat — scad. Total real de taxe: 123.982 lei. Povara fiscală: 10%.
+Bani rămași în cont: 812.018 lei — cel mai mult din toate cele trei variante, deși ai și cost de contabilitate, și salariu de plătit.
+
+Diferența dintre AI și SRL cu angajare: peste 32.000 lei/an, în avantajul SRL.
+
+Cota de impozit pe care o vezi într-un comentariu pe Facebook e jumătate din calcul. Cealaltă jumătate sunt contribuțiile, dividendele și costul de administrare — lucruri pe care nimeni nu le pune în aceeași propoziție cu procentul.
+
+Există și un al doilea motiv, mai puțin discutat, pentru care AI devine tot mai puțin practic pentru un freelancer din Moldova — și ține de clienții tăi, nu de taxele tale.
+
+Legea nr. 228/2025 a introdus o regulă nouă în Codul fiscal (art. 24 alin. (111)): dacă clientul tău este o microîntreprindere — o companie cu maximum 9 angajați și o cifră de afaceri sau active de până la 2 milioane EUR —, plățile pe care ți le face ca și către un AI sunt deductibile pentru el doar în limita a 10% din fondul lui anual de salarii.
+
+Practic: din tot ce-ți plătește, clientul poate scădea fiscal doar 10%, raportat la salariile propriilor angajați. Restul rămâne, pentru el, o cheltuială suportată din bani deja impozitați — ca și cum n-ar fi cheltuială deloc.
+
+Chiar dacă un client mic din Moldova vrea să lucreze cu tine ca AI, structura ta juridică îi creează lui o problemă fiscală. Una pe care majoritatea antreprenorilor o descoperă abia la închiderea anului — și majoritatea clienților unui freelancer moldovean sunt exact acest tip de companie: mică.
+
+Decizia AI vs SRL nu se ia comparând două procente. Se ia comparând ce rămâne, concret, la tine după 12 luni — și ce se întâmplă, fiscal, la clientul tău, când te plătește.
+
+---
 
 ## Note de utilizare
 
