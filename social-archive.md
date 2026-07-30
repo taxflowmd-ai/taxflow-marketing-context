@@ -585,6 +585,27 @@ Decizia AI vs SRL nu se ia comparând două procente. Se ia comparând ce rămâ
 
 ---
 
+## Post #25
+**Data:** 30.07.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 6 — Parteneriat real, nu tranzacție (prima folosire de sine stătătoare — anterior doar combinată cu Tema 1 în Post #14, 24.03.2026)
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Notificare de control fiscal (SFS) ca moment de adevăr al relației cu contabilul/partenerul financiar. Contrast: relație care se oprește la depunerea declarației vs. partener care rămâne alături pe durata controlului.
+**Evitarea repetiției:** Nu reia nișa stomatolog (#4, #22). Nu reia indexarea EUR/MDL (#23 — angle exhausted 6-8 săptămâni). Nu reia framing-ul de expunere publică a situațiilor financiare (#20 — acolo era despre vizibilitate publică a datelor, aici despre suport activ într-un control). Primul post din arhivă centrat exclusiv pe Tema 6, fără combinare cu altă temă.
+
+**Conținut integral:**
+Primești o notificare de control de la SFS. Ce faci primul?
+Majoritatea antreprenorilor răspund singuri, sub presiune, cu documente strânse în grabă, în ultimul moment posibil.
+Nu pentru că nu au un contabil. Ci pentru că relația cu el se oprește, de obicei, la depunerea declarației.
+Un partener financiar real nu dispare după acel moment.
+Pregătește documentația înainte să fie nevoie de ea. Verifică din timp ce ar putea ridica întrebări. Rămâne alături pe durata controlului — nu doar la final, ca să explice ce s-a întâmplat deja.
+Diferența nu se vede în lunile liniștite, când totul merge bine și nimeni nu verifică nimic.
+Se vede exact atunci când apare o notificare pe care n-ai cerut-o și nu știi pe cine să suni.
+Ai pe cineva alături în acel moment sau rezolvi singur, cu ce ai la îndemână?
+**Vizual:** Feed static 1:1, PNG 1080×1080. Fundal TaxFlow Green, headline "Partener real.", kicker "Când vine un control fiscal", subtext "Rămânem alături pe durata controlului — nu doar la final."
+
+---
+
 ## Note de utilizare
 
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
