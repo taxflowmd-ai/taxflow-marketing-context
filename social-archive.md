@@ -606,6 +606,25 @@ Ai pe cineva alături în acel moment sau rezolvi singur, cu ce ai la îndemân�
 
 ---
 
+## Post #26
+**Data:** 03.08.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 1/3 — Operator financiar extern (expertiză în structurare fiscală) + Predictibilitate fiscală, fără surprize
+**Avatar țintă:** Fondator/Antreprenor IMM (cu profit acumulat în SRL)
+**Framing principal:** Disociază explicit două mecanisme adiacente dar separate — amânarea CIT pe profit nedistribuit (art. 87 alin. (1¹), neschimbată) versus redevența de marcă pentru profitul nou (art. 90¹ alin. (3¹)), ca rută alternativă la dividend. Calcul exact pe 1.000.000 MDL (diferență 52.800–61.600 MDL), risc de recalificare enumerat explicit, fără CTA prescriptiv.
+
+**Conținut integral:**
+Ai marcă înregistrată pe numele tău și o folosești în propria firmă, probabil nu plătești pentru utilizarea ei — și exact acolo poți economisi.
+Mecanismul e simplu și nu contravine legislației: proprietarul deține marca, firma plătește o redevență lunară de utilizare – o cheltuială deductibilă pentru firmă, cu reținere de 12% impozit pe venit din redevențe pentru persoană fizică. Diferit de dividend, atât ca bază legală cât și ca tratament fiscal.
+Dacă e să facem o comparație pentru o sumă de 1.000.000 MDL disponibilă pentru asociat: dividendul, în regimul actual, lasă 827.200 MDL net. Redevența de marcă, structurată corect, lasă 880.000 MDL. Diferența: 52.800 MDL, pe aceeași sumă.
+Intenția legiuitorului e să crească impozitul pe dividende. O creștere confirmată, care lărgește ecartul. Reforma nu creează diferența. O adâncește puțin.
+Riscurile există și merită cunoscute înainte, nu după: 
+— rata redevenței trebuie să fie una de piață, de regulă — 1-4% din venituri — nu una de franciză completă. Altfel, plata poate fi recalificată drept dividend deghizat, cu impozit retroactiv și majorări. 
+Diferența dintre o structură corectă și una recalificată stă în execuție, nu în concept.
+Dacă vrei să extragi valoare prin marcă, planifică o discuție — fără obligații.
+
+---
+
 ## Note de utilizare
 
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
