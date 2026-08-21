@@ -544,7 +544,7 @@ Tu urmărești separat cele două cifre, sau doar pe cea din contract?
 - Dacă urmează un post pe aceeași temă valutară, unghiul nou ar fi: furnizori/materii prime importate (cost de achiziție în EUR, facturat în lei la momentul primirii mărfii) — mecanism diferit, aceeași familie de probleme.
 
 ---
-## Post #24
+## Post #25
 **Data:** 08.07.2026
 **Canale:** LinkedIn + Meta (Facebook/Instagram) — carousel, 4 slide-uri
 **Tema strategică:** Tema 1/3 — Operator financiar extern, nu firmă de contabilitate + Predictibilitate fiscală
@@ -585,7 +585,7 @@ Decizia AI vs SRL nu se ia comparând două procente. Se ia comparând ce rămâ
 
 ---
 
-## Post #25
+## Post #26
 **Data:** 30.07.2026
 **Canale:** LinkedIn + Meta (Facebook/Instagram)
 **Tema strategică:** Tema 6 — Parteneriat real, nu tranzacție (prima folosire de sine stătătoare — anterior doar combinată cu Tema 1 în Post #14, 24.03.2026)
@@ -606,7 +606,7 @@ Ai pe cineva alături în acel moment sau rezolvi singur, cu ce ai la îndemân�
 
 ---
 
-## Post #26
+## Post #27
 **Data:** 03.08.2026
 **Canale:** LinkedIn + Meta (Facebook/Instagram)
 **Tema strategică:** Tema 1/3 — Operator financiar extern (expertiză în structurare fiscală) + Predictibilitate fiscală, fără surprize
@@ -625,8 +625,34 @@ Dacă vrei să extragi valoare prin marcă, planifică o discuție — fără ob
 
 ---
 
-## Note de utilizare
+## Post #28
+**Data:** 21.08.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 3 — Predictibilitate fiscală, fără surprize (reforma fiscală 2027, varianta 2/actuală — continuare directă a Post #21, care documenta varianta 1/respinsă)
+**Avatar țintă:** Fondator/Antreprenor IMM (cu SRL de consultanță/management sau instrument CDS activ)
+**Framing principal:** Progresie pe același dosar ca Post #21 — nu contrazice Post #21, îl succede (varianta 1 a propunerilor a fost respinsă; aceasta e varianta 2, confirmată prin proiectul oficial de guvern). Deplasare de unghi: de la timing dividende (Post #21) la închiderea a două canale de optimizare a costului salarial (CDS abrogat, prag IVAO 60%→25%). Adaugă un strat tehnic nou, needucat încă în arhivă: opozabilitatea statutului de administrator ASP față de contractul de muncă și riscul de clarificare SFS pe substanța economică a entității. Cel mai tehnic post din arhivă după #17/#21/#22, cu founder-voice mai pronunțat (fără CTA instituțional până la ultima linie).
 
+**Conținut integral:**
+În proiectul de politică fiscală 2027, atenția publică s-a dus spre TVA și accize, însă la compartimentul impozit pe venit stau două prevederi mai discrete. Separat, par ajustări tehnice. Împreună, închid cele două canale prin care costul salarial al managementului a fost ținut, legal, în afara regimului de impozitare a muncii.
+
+**Capitalul de stimulare (CDS) — abrogat.** Mecanismul, introdus prin art. 31¹ din Legea 135/2007 și clarificat fiscal prin Legea 214/2024, permitea unui SRL să distribuie din profitul net o recompensă către personalul-cheie și administratori, asimilată dividendelor: 6% reținere la sursă, în locul regimului complet de impozitare a muncii (contribuții sociale + medicale + impozit). Practic, compensația de management ieșea din regimul salarial și intra în cel al capitalului. Nu se ajustează un plafon — se elimină integral. 2026 rămâne ultimul an în care ruta există.
+
+**Pragul regimului de 4% (IVAO) — de la 60% la 25%.** Astăzi, o entitate poate rămâne pe 4% dacă veniturile din consultanță stau sub 60% din vânzări. Propunerea coboară pragul la 25%. Peste el — cotă standard de 12%, de trei ori mai mult. Ținta e exactă: entitatea mică sub IVAO care facturează „management" sau „coordonare" către SRL-ul operațional — adică o funcție salarială mutată într-un regim de 4%, în loc să fie purtată ca angajat.
+
+Un strat în plus, pe care puțini îl anticipează: multe dintre aceste SRL-uri nu au nici măcar personal angajat care să presteze efectiv munca facturată. Se sprijină pe o portiță — statutul de administrator înregistrat la ASP (Agenția Servicii Publice) nu e opozabil cu un contract individual de muncă, deci activitatea „există" pe hârtie fără ca cineva să fie formal angajat pentru ea. Odată ce pragul IVAO coboară la 25%, aici se mută următoarea clarificare a SFS: nu poți încasa venituri dintr-un serviciu fără a dispune de personalul care îl prestează. Discuția se mută de la cotă la substanța economică a entității.
+
+Două prevederi, aceeași logică vizată: structurile prin care o cheltuială salarială a fost reașezată într-un regim mai ușor. 2027 le închide pe amândouă.
+
+Două direcții se desprind de aici, pe orizonturi diferite. Cine analiza capitalul de stimulare ca instrument de remunerare are în 2026 ultimul an real de aplicare — după, nu mai e o variantă mai bună sau mai slabă, pur și simplu nu mai există. Cine ține o funcție de consultanță sau management într-un SRL sub IVAO nu mai are de optimizat o cotă, ci de reconstruit substanța: ce servicii prestează efectiv entitatea, cine le prestează și cum se susține asta dincolo de factură. Prima e o decizie de calendar. A doua e o decizie de structură — și se ia acum, cât ai toate variantele pe masă, nu în 2027, când întrebarea nu mai e „ce cotă plătesc", ci „pot demonstra că activitatea există".
+
+Dacă ai un SRL construit pe unul din aceste mecanisme, la TaxFlow analizăm structura cât încă ai toate variantele deschise — nu după ce se închid.
+
+---
+
+**Note pentru evitarea repetiției:** 
+Nu relua în postările următoare deschiderea "atenția publică s-a dus spre TVA/accize" — folosită acum a doua oară (prima în Post #21) pe același dosar; a treia oară ar deveni tic stilistic. Subiectul CDS/IVAO/substanță administrator e acum acoperit — o continuare pe reforma 2027 ar trebui să meargă pe un unghi nefolosit încă (ex. TVA pe HoReCa, taxa de solidaritate bancară, sau impactul asupra profitului reinvestit), nu să reia CDS/IVAO. Recomandare separată: actualizează entry-ul Post #21 cu o mențiune că documentează varianta 1/respinsă a propunerilor (dividende 6%→7%), pentru ca cititorul arhivei să înțeleagă seria corect, nu ca eroare de cifre.
+
+## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
 - **Avatar țintă** = unul din cele 4 avatare, sau "General" pentru postări de autoritate/brand care nu vizează un avatar specific.
 - Înainte de a genera un post nou cu Sonnet, manager-ul trebuie să consulte secțiunile de mai sus pentru a evita repetiția de framing și pentru a păstra coerența vocii (compară fraze, structură, unghiuri deja folosite).
@@ -634,8 +660,11 @@ Dacă vrei să extragi valoare prin marcă, planifică o discuție — fără ob
 ### Observație pattern (din istoricul existent)
 Postările alternează între: (a) educație/proces explicat în pași, (b) poziționare/autoritate prin povestea fondatorului sau evenimente reale, (c) segmentare pe nișă specifică, (d) studii de caz concrete cu cifre exacte. Acest mix funcționează — păstrează-l, nu te concentra doar pe un singur tip.
 
-**Schimbare de ton observată din aprilie-iunie 2026:** postările au evoluat spre conținut mai tehnic și mai personal — eseuri de leadership (Post #17), advisory fiscal cu calcule exacte (Post #21), studii de caz de structurare cu sume reale (Post #22). Vocea pare să se îndrepte spre poziționarea fondatorului ca expert individual (founder-voice), nu doar brand TaxFlow — consistent cu direcția discutată separat de disociere/transfer de autoritate. Dacă acest unghi continuă, e important să rămână ancorat în `tone-guard.md` (fără jargon excesiv, claritate peste tehnicitate) chiar și atunci când subiectul e complex.
+**Schimbare de ton observată din aprilie-iunie 2026:** 
+postările au evoluat spre conținut mai tehnic și mai personal — eseuri de leadership (Post #17), advisory fiscal cu calcule exacte (Post #21), studii de caz de structurare cu sume reale (Post #22). Vocea pare să se îndrepte spre poziționarea fondatorului ca expert individual (founder-voice), nu doar brand TaxFlow — consistent cu direcția discutată separat de disociere/transfer de autoritate. Dacă acest unghi continuă, e important să rămână ancorat în `tone-guard.md` (fără jargon excesiv, claritate peste tehnicitate) chiar și atunci când subiectul e complex.
 
-**Atenție la repetiție de nișă:** Post #4 (stomatolog — deschidere SRL) și Post #22 (clinică stomatologică — structurare investiție) folosesc aceeași nișă profesională. E ok ca progresie (de la "cum deschizi" la "cum optimizezi"), dar nu mai relua nișa stomatologică curând fără un unghi nou.
-**Atenție la unghi (din Post #23):** primul post din arhivă în format mit-busting/comparativ (3 variante greșite, fără client concret). Nu relua acest format următoarele 2-3 postări — variază înapoi spre studiu de caz sau autoritate personală.
+**Atenție la repetiție de nișă:** 
+Post #4 (stomatolog — deschidere SRL) și Post #22 (clinică stomatologică — structurare investiție) folosesc aceeași nișă profesională. E ok ca progresie (de la "cum deschizi" la "cum optimizezi"), dar nu mai relua nișa stomatologică curând fără un unghi nou.
+**Atenție la unghi (din Post #23):** 
+primul post din arhivă în format mit-busting/comparativ (3 variante greșite, fără client concret). Nu relua acest format următoarele 2-3 postări — variază înapoi spre studiu de caz sau autoritate personală.
 ---
