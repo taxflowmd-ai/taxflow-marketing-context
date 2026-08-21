@@ -634,21 +634,39 @@ Dacă vrei să extragi valoare prin marcă, planifică o discuție — fără ob
 
 **Conținut integral:**
 În proiectul de politică fiscală 2027, atenția publică s-a dus spre TVA și accize, însă la compartimentul impozit pe venit stau două prevederi mai discrete. Separat, par ajustări tehnice. Împreună, închid cele două canale prin care costul salarial al managementului a fost ținut, legal, în afara regimului de impozitare a muncii.
-
 **Capitalul de stimulare (CDS) — abrogat.** Mecanismul, introdus prin art. 31¹ din Legea 135/2007 și clarificat fiscal prin Legea 214/2024, permitea unui SRL să distribuie din profitul net o recompensă către personalul-cheie și administratori, asimilată dividendelor: 6% reținere la sursă, în locul regimului complet de impozitare a muncii (contribuții sociale + medicale + impozit). Practic, compensația de management ieșea din regimul salarial și intra în cel al capitalului. Nu se ajustează un plafon — se elimină integral. 2026 rămâne ultimul an în care ruta există.
-
 **Pragul regimului de 4% (IVAO) — de la 60% la 25%.** Astăzi, o entitate poate rămâne pe 4% dacă veniturile din consultanță stau sub 60% din vânzări. Propunerea coboară pragul la 25%. Peste el — cotă standard de 12%, de trei ori mai mult. Ținta e exactă: entitatea mică sub IVAO care facturează „management" sau „coordonare" către SRL-ul operațional — adică o funcție salarială mutată într-un regim de 4%, în loc să fie purtată ca angajat.
-
 Un strat în plus, pe care puțini îl anticipează: multe dintre aceste SRL-uri nu au nici măcar personal angajat care să presteze efectiv munca facturată. Se sprijină pe o portiță — statutul de administrator înregistrat la ASP (Agenția Servicii Publice) nu e opozabil cu un contract individual de muncă, deci activitatea „există" pe hârtie fără ca cineva să fie formal angajat pentru ea. Odată ce pragul IVAO coboară la 25%, aici se mută următoarea clarificare a SFS: nu poți încasa venituri dintr-un serviciu fără a dispune de personalul care îl prestează. Discuția se mută de la cotă la substanța economică a entității.
-
 Două prevederi, aceeași logică vizată: structurile prin care o cheltuială salarială a fost reașezată într-un regim mai ușor. 2027 le închide pe amândouă.
-
 Două direcții se desprind de aici, pe orizonturi diferite. Cine analiza capitalul de stimulare ca instrument de remunerare are în 2026 ultimul an real de aplicare — după, nu mai e o variantă mai bună sau mai slabă, pur și simplu nu mai există. Cine ține o funcție de consultanță sau management într-un SRL sub IVAO nu mai are de optimizat o cotă, ci de reconstruit substanța: ce servicii prestează efectiv entitatea, cine le prestează și cum se susține asta dincolo de factură. Prima e o decizie de calendar. A doua e o decizie de structură — și se ia acum, cât ai toate variantele pe masă, nu în 2027, când întrebarea nu mai e „ce cotă plătesc", ci „pot demonstra că activitatea există".
 
 Dacă ai un SRL construit pe unul din aceste mecanisme, la TaxFlow analizăm structura cât încă ai toate variantele deschise — nu după ce se închid.
 
 ---
 
+## Post #29
+**Data:** 23.08.2026 **
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 1 — Operator financiar extern, nu firmă de contabilitate (alegere pe nevoie reală, nu preț/ambalaj) + Tema 6 — Parteneriat real, nu tranzacție
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Poveste personală de fondator, piața românească 2019 — proces de selecție a unui furnizor de contabilitate în regim outsourcing, prin 4 oferte comparate. Contrast vizual: companiile mai ieftine cu birouri "ambalate" (mobilier din piele) vs. oferta cea mai scumpă, primită într-un apartament fără decor. Alegerea finală (cea mai scumpă, cea mai puțin ambalată) demonstrează principiul prin dovadă narativă, nu prin argument abstract — spre deosebire de Post #3, care atinge aceeași idee ("nu alegi după preț") dar matematic, fără scenă concretă.
+
+**Conținut integral:**
+În 2019, ieșeam pentru prima dată pe o piață externă, alături de un partener. Am ales România.
+Primul pas a fost simplu: aveam nevoie de o companie de contabilitate în regim de outsourcing. Am cerut mai multe oferte de preț, le-am ierarhizat și am ales un top 4. Apoi am mers la București, la interviuri.
+Ofertele variau de 3-4 ori ca preț, dar erau aproape identice ca și conținut.
+La interviuri, contrastul a fost neașteptat. Companiile cu prețurile cele mai mici ne-au întâmpinat în birouri cu mobilier din piele și cafea — un decor gândit clar să impresioneze. Altele, în birouri improvizate.
+Ultima întâlnire a fost cu compania care venise cu oferta cea mai scumpă. Ne-a primit într-un apartament, într-un cartier care nu semăna deloc a zonă de business.
+Am ales exact această ofertă.
+Nu pentru birou. Pentru că era singura care răspundea exact la ce aveam nevoie, nu la ce ne-ar fi plăcut să vedem.
+Șapte ani mai târziu, partenerul meu lucrează în continuare cu aceeași firmă.
+O soluție potrivită pentru o afacere nu se decide printr-o competiție de preț și nici printr-o competiție de decor. Se decide prin identificarea exactă a nevoii — și oferirea soluției care răspunde la ea.
+Exact asta facem la TaxFlow: identificăm nevoia reală a clientului, nu pe cea mai ieftină sau cea mai bine ambalată soluție.
+Dacă te-ai regăsit vreodată alegând după preț sau decor — și ai plătit asta mai târziu — hai să vorbim despre ce ai nevoie cu adevărat.
+
+---
+
+**Note pentru evitarea repetiției:** Prima poveste narativă din arhivă ancorată în expansiunea pe piața românească (2019) — unghi nou, nefolosit până acum. Nu relua în curând framing-ul "alege pe nevoie, nu pe preț/decor" cu alt studiu de caz — se suprapune deja parțial cu Post #3.
 **Note pentru evitarea repetiției:** 
 Nu relua în postările următoare deschiderea "atenția publică s-a dus spre TVA/accize" — folosită acum a doua oară (prima în Post #21) pe același dosar; a treia oară ar deveni tic stilistic. Subiectul CDS/IVAO/substanță administrator e acum acoperit — o continuare pe reforma 2027 ar trebui să meargă pe un unghi nefolosit încă (ex. TVA pe HoReCa, taxa de solidaritate bancară, sau impactul asupra profitului reinvestit), nu să reia CDS/IVAO. Recomandare separată: actualizează entry-ul Post #21 cu o mențiune că documentează varianta 1/respinsă a propunerilor (dividende 6%→7%), pentru ca cititorul arhivei să înțeleagă seria corect, nu ca eroare de cifre.
 
