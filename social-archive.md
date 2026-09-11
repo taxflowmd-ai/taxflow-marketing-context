@@ -568,19 +568,12 @@ Bani rămași în cont: 799.206 lei.
 **SRL, cu tine ca angajat, salariu de 6.000 lei/lună**
 Aceeași cotă de 4% pe venit. Dar contribuțiile sociale și medicale, calculate acum la un salariu real — nu ca sumă fixă de fondator neangajat — scad. Total real de taxe: 123.982 lei. Povara fiscală: 10%.
 Bani rămași în cont: 812.018 lei — cel mai mult din toate cele trei variante, deși ai și cost de contabilitate, și salariu de plătit.
-
 Diferența dintre AI și SRL cu angajare: peste 32.000 lei/an, în avantajul SRL.
-
 Cota de impozit pe care o vezi într-un comentariu pe Facebook e jumătate din calcul. Cealaltă jumătate sunt contribuțiile, dividendele și costul de administrare — lucruri pe care nimeni nu le pune în aceeași propoziție cu procentul.
-
 Există și un al doilea motiv, mai puțin discutat, pentru care AI devine tot mai puțin practic pentru un freelancer din Moldova — și ține de clienții tăi, nu de taxele tale.
-
 Legea nr. 228/2025 a introdus o regulă nouă în Codul fiscal (art. 24 alin. (111)): dacă clientul tău este o microîntreprindere — o companie cu maximum 9 angajați și o cifră de afaceri sau active de până la 2 milioane EUR —, plățile pe care ți le face ca și către un AI sunt deductibile pentru el doar în limita a 10% din fondul lui anual de salarii.
-
 Practic: din tot ce-ți plătește, clientul poate scădea fiscal doar 10%, raportat la salariile propriilor angajați. Restul rămâne, pentru el, o cheltuială suportată din bani deja impozitați — ca și cum n-ar fi cheltuială deloc.
-
 Chiar dacă un client mic din Moldova vrea să lucreze cu tine ca AI, structura ta juridică îi creează lui o problemă fiscală. Una pe care majoritatea antreprenorilor o descoperă abia la închiderea anului — și majoritatea clienților unui freelancer moldovean sunt exact acest tip de companie: mică.
-
 Decizia AI vs SRL nu se ia comparând două procente. Se ia comparând ce rămâne, concret, la tine după 12 luni — și ce se întâmplă, fiscal, la clientul tău, când te plătește.
 
 ---
@@ -642,6 +635,9 @@ Două direcții se desprind de aici, pe orizonturi diferite. Cine analiza capita
 
 Dacă ai un SRL construit pe unul din aceste mecanisme, la TaxFlow analizăm structura cât încă ai toate variantele deschise — nu după ce se închid.
 
+**Note pentru evitarea repetiției:** 
+Nu relua în postările următoare deschiderea "atenția publică s-a dus spre TVA/accize" — folosită acum a doua oară (prima în Post #21) pe același dosar; a treia oară ar deveni tic stilistic. Subiectul CDS/IVAO/substanță administrator e acum acoperit — o continuare pe reforma 2027 ar trebui să meargă pe un unghi nefolosit încă (ex. TVA pe HoReCa, taxa de solidaritate bancară, sau impactul asupra profitului reinvestit), nu să reia CDS/IVAO. Recomandare separată: actualizează entry-ul Post #21 cu o mențiune că documentează varianta 1/respinsă a propunerilor (dividende 6%→7%), pentru ca cititorul arhivei să înțeleagă seria corect, nu ca eroare de cifre.
+
 ---
 
 ## Post #29
@@ -664,6 +660,8 @@ O soluție potrivită pentru o afacere nu se decide printr-o competiție de pre�
 Exact asta facem la TaxFlow: identificăm nevoia reală a clientului, nu pe cea mai ieftină sau cea mai bine ambalată soluție.
 Dacă te-ai regăsit vreodată alegând după preț sau decor — și ai plătit asta mai târziu — hai să vorbim despre ce ai nevoie cu adevărat.
 
+**Note pentru evitarea repetiției:** 
+Prima poveste narativă din arhivă ancorată în expansiunea pe piața românească (2019) — unghi nou, nefolosit până acum. Nu relua în curând framing-ul "alege pe nevoie, nu pe preț/decor" cu alt studiu de caz — se suprapune deja parțial cu Post #3.
 ---
 
 ## Post #30
@@ -687,9 +685,32 @@ Dacă vrei să știi exact ce înseamnă control real pentru firma ta, scrie-ne 
 - Unghiul "acces la date ≠ control real" e acum acoperit. O continuare pe același fir ar trebui să meargă pe un mecanism nou (ex. cine ia de fapt decizia când fondatorul nu verifică personal, sau cost concret al unei decizii luate fără date complete), nu să repete contrastul acces/control.
 
 ---
-**Note pentru evitarea repetiției:** Prima poveste narativă din arhivă ancorată în expansiunea pe piața românească (2019) — unghi nou, nefolosit până acum. Nu relua în curând framing-ul "alege pe nevoie, nu pe preț/decor" cu alt studiu de caz — se suprapune deja parțial cu Post #3.
-**Note pentru evitarea repetiției:** 
-Nu relua în postările următoare deschiderea "atenția publică s-a dus spre TVA/accize" — folosită acum a doua oară (prima în Post #21) pe același dosar; a treia oară ar deveni tic stilistic. Subiectul CDS/IVAO/substanță administrator e acum acoperit — o continuare pe reforma 2027 ar trebui să meargă pe un unghi nefolosit încă (ex. TVA pe HoReCa, taxa de solidaritate bancară, sau impactul asupra profitului reinvestit), nu să reia CDS/IVAO. Recomandare separată: actualizează entry-ul Post #21 cu o mențiune că documentează varianta 1/respinsă a propunerilor (dividende 6%→7%), pentru ca cititorul arhivei să înțeleagă seria corect, nu ca eroare de cifre.
+## Post #31
+**Data:** 11.09.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 3 — Predictibilitate fiscală, fără surprize (reforma 2027, a treia intrare pe dosarul dividende — succede Post #21, cu date confirmate post-prima lectură)
+**Avatar țintă:** Fondator/Antreprenor IMM (cu profit nerepartizat din exerciții anterioare)
+**Framing principal:** Format lung, founder-voice — pornește de la o discuție reală cu un client (calcul propriu al antreprenorului, nu o propunere primită de TaxFlow), leagă surpriza plăcută față de ingeniozitatea clienților de un principiu de management (Maxim Batyrev, „45 de tatuaje ale managementului" — ce e evident pentru tine, nu e evident pentru alții), apoi clarifică tehnic distincția generare profit vs. moment distribuire. Ancorat în votul din prima lectură (Parlament, sept. 2026), confirmă majorarea 6%→8%. CTA nu revine la subiectul fiscal — face callback la „ingeniozitate"/„idei geniale" din mijlocul textului, nu la profitul nerepartizat (deja clarificat în conținut).
+
+**Conținut integral:**
+Într-o discuție recentă cu un antreprenor, pe fondul noii politici fiscale pentru 2027 — votată în prima lectură de Parlament, care majorează impozitul pe dividende de la 6% la 8% — a apărut o întrebare la care m-am oprit mai mult decât m-aș fi așteptat.
+Compania lui are profit nerepartizat din perioade anterioare — profit  impozitat, fără să fi beneficiat de facilitatea de amânare a impozitului pe venit. Întrebarea lui, în esență: are sens să acorde firmei un împrumut în 2026, ca aceasta să distribuie acum acest profit și să plătească impozitul la cota actuală de 6%, urmând ca împrumutul să fie restituit ulterior — în loc să aștepte și să distribuie profitul mai târziu, când cota va fi 8%?
+Ingeniozitatea antreprenorilor cu care lucrăm m-a surprins plăcut de multe ori până acum, și de data asta la fel. Întrebarea lui mi-a amintit de o idee pe care am întâlnit-o prima dată la Maxim Batyrev, în „45 de tatuaje ale managementului": una dintre acele „tatuaje" spune că ceea ce este evident pentru tine nu este evident și pentru alții.
+Aplicată aici: pentru noi, cei familiarizați, e limpede că atunci când vorbim de noua cotă pe dividende, ne referim la profitul obținut după intrarea ei în vigoare — nu la momentul în care alegi să-l distribui. Pentru un antreprenor, distincția asta nu e deloc evidentă. Și de aici pornesc scenarii construite pe o presupunere care nu se confirmă.
+Conform proiectului pentru 2027, la reținerea impozitului pe dividende la sursă vor exista trei cote, aplicate în funcție de perioada în care a fost generat profitul — nu de data la care e distribuit:
+Profit generat între 2008 și 2011 — 15%.
+Profit generat între 2012 și 2026 — 6%.
+Profit generat din 2027 — 8%.
+Discuția asta a confirmat încă o dată, nevoia unei clarificări simple pe acest subiect, ca antreprenorii, contabilii și consultanții să opereze în același spațiu informațional.
+Și tu ai ”idei geniale” pentru firma ta? Hai să le discutăm — uneori cea mai bună parte a unei idei e ce descoperi când o descompui. 
+
+**Note pentru evitarea repetiției:**
+- Nu relua deschiderea "atenția publică s-a dus spre TVA/accize" (folosită deja de 2 ori — #21, #28).
+- Post #21 rămâne valid ca documentare a contextului de atunci (propunere în dezbatere, cotă 6%→7% respinsă) — nu necesită corecție retroactivă, e succesiune cronologică firească a aceluiași dosar.
+- Nu dezvolta mecanismul împrumut-asociat în alt post apropiat — rămâne opțiune separată, cu calcul complet cost dobândă vs. beneficiu (2 puncte procentuale câștigate mai devreme).
+- Prima referință de carte din arhivă folosită într-un post de acest tip (Batyrev) — dacă se repetă tiparul „citat + aplicare la fiscalitate", variază sursa, nu relua același autor/carte.
+
+---
 
 ## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
