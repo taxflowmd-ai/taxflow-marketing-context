@@ -666,6 +666,27 @@ Dacă te-ai regăsit vreodată alegând după preț sau decor — și ai plătit
 
 ---
 
+## Post #30
+**Data:** 09.09.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 2 — Claritate financiară = liniște, nu jargon (acces la date vs. control real)
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Contrast direct — acces la date (rapoarte, aplicație, orice moment) versus control real (înțelegerea deciziei din spatele cifrei). Insight: "control" e adesea încredere delegată, nu vizibilitate reală. Rescris dintr-o variantă inițială cu unghi diaspora (Tema 5), respinsă — publicul actual nu justifica targetarea geografică; mecanismul a fost păstrat, eticheta geografică eliminată.
+
+**Conținut integral:**
+Poți vedea toate rapoartele firmei, în orice moment, de pe telefon. Asta nu înseamnă că ai control asupra ei. Mulți fondatori confundă accesul la date cu înțelegerea lor. Vezi o cifră. Nu vezi de ce s-a schimbat, ce urmează sau dacă cineva din echipă a luat deja o decizie în locul tău, fără să știi.
+Ce numești "am totul sub control" e, de cele mai multe ori, încredere că cineva se ocupă de asta — și asta e altceva.
+Diferența apare exact atunci când ceva nu merge cum trebuie: un furnizor plătit greșit, un termen ratat, o decizie luată pe repede-înainte de cineva care nu avea toate datele.
+Control real înseamnă să știi ce urmează în firma ta, nu doar ce s-a întâmplat deja.
+Tu ai acces la date sau ai imaginea completă?
+Dacă vrei să știi exact ce înseamnă control real pentru firma ta, scrie-ne — vedem împreună de unde pornim.
+
+**Note pentru evitarea repetiției:**
+- Tema 5 (Diaspora & control de la distanță) rămâne complet neexploatată — a fost luată în calcul pentru acest post, respinsă pe motiv de targetare/public, nu de conținut. Rămâne opțiune validă pentru un post viitor, eventual ca ads targetat geografic (testat separat: Chișinău + 25 km), nu ca organic.
+- Nu relua motivul "aplicația băncii" din Post #7 (profit vs cash) — aici sursa de date sunt rapoartele generice, nu soldul bancar, intenționat diferit.
+- Unghiul "acces la date ≠ control real" e acum acoperit. O continuare pe același fir ar trebui să meargă pe un mecanism nou (ex. cine ia de fapt decizia când fondatorul nu verifică personal, sau cost concret al unei decizii luate fără date complete), nu să repete contrastul acces/control.
+
+---
 **Note pentru evitarea repetiției:** Prima poveste narativă din arhivă ancorată în expansiunea pe piața românească (2019) — unghi nou, nefolosit până acum. Nu relua în curând framing-ul "alege pe nevoie, nu pe preț/decor" cu alt studiu de caz — se suprapune deja parțial cu Post #3.
 **Note pentru evitarea repetiției:** 
 Nu relua în postările următoare deschiderea "atenția publică s-a dus spre TVA/accize" — folosită acum a doua oară (prima în Post #21) pe același dosar; a treia oară ar deveni tic stilistic. Subiectul CDS/IVAO/substanță administrator e acum acoperit — o continuare pe reforma 2027 ar trebui să meargă pe un unghi nefolosit încă (ex. TVA pe HoReCa, taxa de solidaritate bancară, sau impactul asupra profitului reinvestit), nu să reia CDS/IVAO. Recomandare separată: actualizează entry-ul Post #21 cu o mențiune că documentează varianta 1/respinsă a propunerilor (dividende 6%→7%), pentru ca cititorul arhivei să înțeleagă seria corect, nu ca eroare de cifre.
