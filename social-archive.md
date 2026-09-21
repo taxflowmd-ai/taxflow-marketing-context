@@ -732,6 +732,29 @@ Nu pentru că e ușor. Pentru că ne privește.
 
 ---
 
+## Post #32
+**Data:** 21.09.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 6 — Parteneriat real, nu tranzacție (a doua folosire de sine stătător, după Post #26 — acolo despre control fiscal SFS, aici despre un obicei de achiziție)
+**Avatar țintă:** Fondator/Antreprenor IMM
+**Framing principal:** Obicei intern dezvăluit ca dovadă de parteneriat, nu declarație de valori: verificăm întâi dacă un client de-al nostru oferă serviciul/produsul de care avem nevoie, plătim preț normal, fără discount cerut. Context de actualitate (costuri în creștere, energie) fără tag geografic explicit — conform regulii din `ways-of-working.md` (geografia rămâne în ads plătite). Închidere: întrebare la egal la egal ("La voi ce forme de susținere...") — invită la comentariu, nu la o listă de bifat.
+
+**Conținut integral:**
+Când avem nevoie de un serviciu sau un produs pentru firmă, verificăm întâi: îl oferă vreunul dintre clienții noștri?
+Nu cerem reducere. Plătim prețul normal.
+Nu e o strategie de imagine. E o decizie simplă: în perioade în care costurile cresc — cum se întâmplă acum — fiecare factură pe care o direcționăm către un client existent înseamnă bani care rămân în cercul de business apropiat, în loc să plece în afara lui.
+Nu rezolvă scumpirile. Nu anulează presiunea pe marjă.
+Dar e un gest concret, nu doar o vorbă de susținere spusă la o cafea.
+Un antreprenor căruia îi crește factura la energie nu are nevoie de încurajări. Are nevoie de clienți care rămân și, dacă se poate, de unul-doi în plus.
+Așa alegem noi furnizorii, când putem alege.
+La voi ce forme de susținere între antreprenori funcționează?
+
+**Note pentru evitarea repetiției:**
+- Nu relua în curând unghiul "cumpărăm de la clienții noștri" — mecanismul e acum acoperit. O continuare pe Tema 6 ar trebui să meargă pe alt gest concret (nu achiziție), ex. cum tratăm o restanță de plată a unui client aflat el însuși în dificultate.
+- Închidere de tip "La voi..." (întrebare la egal la egal, deschisă, non-categorică) — distinctă de închiderile anterioare de tip "Tu..." (adresare directă, #6, #11, #20) sau declarativ fără întrebare (#10, #14, #15). Dacă tiparul funcționează bine la comentarii, ia în calcul reutilizarea lui, nu doar a temei.
+- Vizual: feed static 1:1.
+
+---
 ## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
 - **Avatar țintă** = unul din cele 4 avatare, sau "General" pentru postări de autoritate/brand care nu vizează un avatar specific.
