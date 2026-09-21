@@ -712,6 +712,26 @@ Discuția asta a confirmat încă o dată, nevoia unei clarificări simple pe ac
 
 ---
 
+## Post #23
+**Data:** 17.09.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 6 — Parteneriat real, nu tranzacție (participare civică/instituțională) + Tema 4 — Thought Leadership
+**Avatar țintă:** General / autoritate de brand (temă civică, nu vizează un avatar specific)
+**Framing principal:** Recap participare la consultările publice ale Ministerului Finanțelor (simplificare raportări fiscale). Poziționare: profesionistul financiar contribuie la formarea regulilor, nu doar le aplică. Prima postare din arhivă pe tema participării civice/instituționale — teritoriu nou.
+
+**Conținut integral:**
+Astăzi am fost la Ministerul Finanțelor al Republicii Moldova.
+Nu pentru un client. Nu pentru o urgență.
+Am participat la consultările publice privind simplificarea raportărilor fiscale — acolo unde regulile se discută înainte să devină obligații.
+Pentru profesioniștii care lucrează zilnic cu aceste reguli, participarea la astfel de consultări este parte din responsabilitate.
+Apreciem că autoritățile aleg calea consultării. Poate nu este cea mai rapidă, dar este o cale prin care regulile pot deveni mai clare, mai aplicabile și mai bine fundamentate.
+Credem că locul profesioniștilor nu este doar la birou, după ce regulile au fost scrise, ci și la masa unde acestea sunt discutate.
+Un partener financiar real nu doar aplică sistemul. Contribuie la el.
+Noi ne-am implicat astăzi.
+Nu pentru că e ușor. Pentru că ne privește.
+
+---
+
 ## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
 - **Avatar țintă** = unul din cele 4 avatare, sau "General" pentru postări de autoritate/brand care nu vizează un avatar specific.
