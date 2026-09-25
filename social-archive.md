@@ -755,6 +755,69 @@ La voi ce forme de susținere între antreprenori funcționează?
 - Vizual: feed static 1:1.
 
 ---
+
+## Post #33
+**Data:** 25.09.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram) — carousel, 5 slide-uri
+**Tema strategică:** Tema 1 — Operator financiar extern, nu firmă de contabilitate (costul complet al funcției financiare interne vs. funcție externalizată) + atinge Tema 2 (claritate — un cost invizibil pentru că e împrăștiat pe mai multe linii de buget)
+**Avatar țintă:** Fondator/Antreprenor IMM (cu contabil angajat intern)
+**Framing principal:** Continuare pe contextul scumpirilor din Post #32, cu unghi schimbat: de la susținerea între antreprenori la un cost propriu, controlabil direct. Insight: fondatorii taie în perioade de scumpiri ce se vede, iar costul funcției financiare nu se vede, fiindcă e împrăștiat pe 7 linii de buget (salariu, contribuții, birou, echipament, licență, utilități, formare). Calcul ilustrativ pe un salariu brut de 18.000 lei → 313.040 lei/an, peste 26.000 lei/lună, pentru un singur om. Abia după cifră apar beneficiile externalizării (7). Reformulare-cheie: „cumperi o funcție, nu un post” — deliberat NU „mai ieftin”, pentru a nu contrazice #3 și #29 (alegere pe nevoie, nu pe preț). Include o recunoaștere onestă a limitei (firme cu volum mare de documente primare → operator intern + expertiză externalizată, model hibrid). CTA de tip calcul personalizat, nu discuție/programare.
+
+**Conținut vizual (carousel 1:1, 5 × PNG 1080×1080px, font Noto Sans):**
+- Slide 1 (verde): eyebrow COSTUL FUNCȚIEI FINANCIARE / „Când costurile cresc, tai ce se vede.” / „Costul contabilului intern nu se vede. Nu stă pe o singură linie. E împrăștiat prin tot bugetul.”
+- Slide 2 (neutru): EXEMPLU DE CALCUL / „Contabil angajat — salariu brut 18.000 lei / lună” / tabel cu 7 linii de cost, lei/an, estimativ
+- Slide 3 (verde): TOTAL / „313.040 lei pe an. Peste 26.000 lei pe lună.” / „Pentru un singur om.” + 3 limite (o specializare, 28 zile concediu fără înlocuitor, memoria financiară într-o persoană)
+- Slide 4 (neutru): ACEEAȘI FUNCȚIE, EXTERNALIZATĂ / 7 beneficii cu etichetă + o linie
+- Slide 5 (verde): DIFERENȚA / „Cumperi o funcție, nu un post.” / „Pentru o sumă comparabilă sau mai mică.” / CTA calcul personalizat
+
+**Conținut integral:**
+Când costurile cresc, primul reflex e să tai ce se vede: bugetul de marketing, o comandă de stoc, un proiect amânat.
+
+Aproape nimeni nu taie ce nu se vede — iar costul funcției financiare nu se vede, pentru că nu stă pe o singură linie.
+
+Un exemplu de calcul, pentru un contabil angajat cu salariul brut de 18.000 lei:
+
+— salariu: 216.000 lei/an
+— contribuții sociale plătite de angajator (24%): 51.840 lei
+— locul de muncă, cca 7 m² de birou: 18.000 lei
+— calculator și monitor, amortizate pe 3 ani: 8.000 lei
+— licența și actualizările programului de contabilitate: 7.000 lei
+— energie, internet, telefon, consumabile: 7.200 lei
+— cursuri și actualizări legislative: 5.000 lei
+
+Total: 313.040 lei pe an. Peste 26.000 lei pe lună.
+
+Pentru acești bani ai un singur om. O singură specializare, 28 de zile de concediu pe an în care nu-l înlocuiește nimeni, și toată memoria financiară a firmei păstrată într-o singură persoană.
+
+Aceeași funcție, externalizată, arată altfel:
+
+— o echipă, nu un post: contabilitate și fiscalitate, salarizare și HR cu suport juridic, plus un CFO care citește cifrele împreună cu tine
+— continuitate: concediul sau plecarea cuiva nu opresc evidența
+— al doilea ochi: ce lucrează un specialist verifică altul; pe un contabil intern, de regulă, nu-l verifică nimeni
+— confidențialitate: salariile nu mai circulă în interiorul echipei
+— legislația inclusă: reforma fiscală 2027 o învață o echipă, nu un singur om, pe timpul tău
+— un cost convenit, în locul a șapte linii care cresc fiecare separat
+— responsabilitate contractuală: o eroare nu rămâne o discuție între tine și un angajat
+
+Nu e soluția pentru orice firmă. Dacă procesezi zilnic sute de documente primare, un operator intern are sens — pentru introducerea datelor, nu pentru decizii. Expertiza se poate externaliza separat.
+
+Diferența nu e că plătești mai puțin. Pentru o sumă comparabilă sau mai mică, cumperi o funcție, nu un post.
+
+Trimite-ne salariul brut al contabilului tău și ce face concret într-o lună. Îți întoarcem costul real, linie cu linie, și ce ar acoperi aceeași sumă externalizat. Calculul rămâne la tine, indiferent ce decizi.
+
+**Sursă/ancorare:** cifrele de cost (salariu, chirie/m², licență, formare) sunt estimări ilustrative, alese conservator și acceptate ca atare. Faptele legislative: CAS angajator 24%, concediu anual 28 zile calendaristice (Codul muncii).
+
+**Note pentru evitarea repetiției:**
+- Unghiul „costul complet al contabilului intern, linie cu linie” e acum consumat. Nu relua calculul cost intern vs. externalizat în următoarele 6–8 săptămâni.
+- Seria „scumpiri” are acum două intrări consecutive (#32 — susținere între antreprenori, #33 — costul propriu al funcției financiare). Nu adăuga o a treia imediat. Publicul riscă să asocieze TaxFlow cu un ton de criză, contrar tone-guard („NU alarmiști”).
+- Formula „cumperi o funcție, nu un post” e o reformulare-semnătură. Poate fi reutilizată ca linie de brand (ads, landing page), nu ca hook al unui alt post organic.
+- Limita recunoscută deschis („Nu e soluția pentru orice firmă”) e prima de acest tip din arhivă. Modelul hibrid (operator intern + expertiză externalizată) rămâne un unghi separat, nedezvoltat, pentru un post viitor.
+- CTA de tip „trimite-ne datele, îți întoarcem calculul” e distinct de „programează 30 de minute” (#21, #22), „fără obligații” (#27) și link către calculator (#16). Monitorizează rata de răspuns — dacă depășește CTA-urile de discuție, devine formatul implicit pentru postările cu cifre.
+- Beneficiul „confidențialitate salarială” leagă direct de un pain point real din mandatul TopMag (zona salarială evitată). Poate fi dezvoltat separat, anonimizat, fără a relua lista din acest post.
+- Alternanța de închidere: #32 s-a încheiat cu întrebare la egal la egal („La voi…”), #33 cu ofertă declarativă, fără întrebare. Următorul post poate reveni la o întrebare, dar nu „La voi…” consecutiv.
+
+---
+
 ## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
 - **Avatar țintă** = unul din cele 4 avatare, sau "General" pentru postări de autoritate/brand care nu vizează un avatar specific.
