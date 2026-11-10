@@ -818,6 +818,44 @@ Trimite-ne salariul brut al contabilului tău și ce face concret într-o lună.
 
 ---
 
+## Post #34
+**Data:** 10.11.2026
+**Canale:** LinkedIn + Meta (Facebook/Instagram)
+**Tema strategică:** Tema 1 — Operator financiar extern, nu firmă de contabilitate (funcția financiară ca rol lipsă, nu ca serviciu contabil) + Tema 2 — Claritate financiară (imaginea de ansamblu vs. vizibilitatea pe zone)
+**Avatar țintă:** Fondator/Antreprenor IMM — sub-segment nou: firme cu 2+ asociați și zone de responsabilitate împărțite
+**Framing principal:** Tipar structural, nu studiu de caz — asociații cu roluri complementare (vânzări / operațiuni / echipă) văd fiecare corect zona proprie, dar funcția financiară nu aparține nimănui. Hook de tip întrebare-test („vei primi același răspuns?"), urmat de un instrument de autodiagnostic aplicabil imediat: fiecare asociat scrie separat trei cifre, apoi se compară. Concluzie: diferența dintre răspunsuri nu e o problemă de comunicare, ci de control financiar. Depersonalizat integral — inițial construit pe un caz real de client, rescris pentru a respecta principiul din manifest că problemele clienților nu ajung în public prin TaxFlow.
+
+**Conținut integral:**
+Dacă îi întrebi pe toți asociații câți bani are firma, vei primi același răspuns?
+
+Unul conduce vânzările, altul operațiunile, altul echipa. Fiecare știe ce se întâmplă în zona lui. Dar cine vede imaginea financiară de ansamblu?
+
+Poți avea vânzări în creștere, stocuri în care sunt blocați bani și obligații de plată care se apropie. Toate în același timp.
+
+Problema apare atunci când nimeni nu conectează aceste informații și nu le transformă într-o imagine clară asupra companiei.
+
+Un test simplu pentru asociați:
+Fiecare scrie separat trei cifre — cât a câștigat firma luna trecută, — câți bani are azi în cont, — cât are de plătit în următoarele 30 de zile.
+
+Apoi comparați răspunsurile.
+
+Dacă cifrele diferă, aveți mai mult decât o problemă de comunicare. Aveți o problemă de control financiar.
+
+O companie nu are nevoie doar de oameni care își conduc bine departamentele. Are nevoie și de cineva care vede imaginea financiară de ansamblu și conectează deciziile dintre departamente.
+
+Vrei să discutăm despre rezultatele testului? Scrie-ne în privat. La TaxFlow, ajutăm antreprenorii să transforme datele financiare în control și decizii mai bune.
+
+**Note pentru evitarea repetiției:**
+- Primul post din arhivă adresat explicit firmelor cu mai mulți asociați. Sub-segmentul e acum deschis; o continuare ar trebui să meargă pe alt mecanism (ex. cum se decide distribuirea profitului între asociați cu roluri diferite), nu să reia „fiecare vede zona lui".
+- Testul „trei cifre scrise separat" e un instrument de autodiagnostic — format nou, distinct de how-to-ul în pași (#13) și de calculatorul online (#16). Nu relua un test de tip „scrie/compară" în următoarele 4–6 săptămâni.
+- Nu confunda cu #30 (acces la date ≠ control real): acolo era un singur fondator și relația lui cu rapoartele; aici sunt mai mulți asociați și lipsa unui rol care conectează zonele.
+- Motivul „vânzări în creștere + stoc blocat" atinge familia #6/#7/#8 (profit vs. cash). Aici e doar ilustrativ — nu dezvolta mecanismul cash/stoc într-un post apropiat.
+- CTA dublu: invitație la mesaj privat legată de rezultatul testului + o linie de poziționare TaxFlow. Monitorizează dacă invitația legată de un rezultat concret aduce mai multe mesaje decât „scrie-ne" generic (#30) sau „programează 30 de minute" (#21, #22).
+- Principiu editorial confirmat: cazurile reale ale clienților nu se folosesc în postări publice, nici anonimizate prin cifre rotunjite. Doar tipare depersonalizate.
+- Vizual: de completat după producție (format, headline).
+
+---
+
 ## Note de utilizare
 - **Tema strategică** = una din cele 6 teme din `strategic-themes.md`. Nu repeta aceeași temă 2 săptămâni la rând decât dacă unghiul e clar diferit.
 - **Avatar țintă** = unul din cele 4 avatare, sau "General" pentru postări de autoritate/brand care nu vizează un avatar specific.
